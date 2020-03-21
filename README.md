@@ -1,2 +1,2 @@
 # Lecture-00
-To clean the Lectures of CS50-Havard course
+To learn the Lectures of CS50-Havard course
